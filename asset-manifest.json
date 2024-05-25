@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Eyerusalem-yirga/netflix-clone-2024a/static/css/main.90ff4390.css",
+    "main.js": "/Eyerusalem-yirga/netflix-clone-2024a/static/js/main.e2ce27f4.js",
+    "static/media/netflixlogo.png": "/Eyerusalem-yirga/netflix-clone-2024a/static/media/netflixlogo.01a218c2d306a6939228.png",
+    "index.html": "/Eyerusalem-yirga/netflix-clone-2024a/index.html",
+    "main.90ff4390.css.map": "/Eyerusalem-yirga/netflix-clone-2024a/static/css/main.90ff4390.css.map",
+    "main.e2ce27f4.js.map": "/Eyerusalem-yirga/netflix-clone-2024a/static/js/main.e2ce27f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90ff4390.css",
+    "static/js/main.e2ce27f4.js"
+  ]
+}
